@@ -25,4 +25,4 @@ The process bakes the transform into the Mesh and saves it as a separate mesh in
 [Get as Unity Package (__TODO__)]()  
 
 ## License  
-[MIT License](https://github.com/gigableh/mesh-apply-transform-unity/blob/master/LICENSE)  
+[MIT License](https://github.com/gigableh/mesh-apply-transform-unity/blob/master/LICENSE.txt)  
